@@ -3,6 +3,8 @@
 A Netflix-style landing page built using HTML, CSS, and JavaScript.  
 This project helped me practice responsive layouts, animations, and a bit of JavaScript interactivity.
 
+## Live Demo : https://disha-singh-singraur.github.io/Netflix-landing-page/
+
 ## Features ✨
 - Responsive landing page design
 - Hero section with background image + dark overlay

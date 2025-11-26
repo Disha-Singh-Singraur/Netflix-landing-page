@@ -14,9 +14,9 @@ This project helped me practice responsive layouts, animations, and a bit of Jav
   
 ## What Was Difficult For Me 😭
 - Making everything responsive without breaking the layout  
-- Keeping the **huge trending numbers** or **ranks** from pushing the screen sideways  
-- Accidentally creating a **horizontal scrollbar** 100 times  
-- Arrow buttons that refused to behave  
+- Placing the **huge trending numbers** or **ranks** on trending cards 
+- Arrow buttons that refused to behave
+- Making proper accordions using css and js 
 - CSS making me question all my life choices 😅
 
 But yes… after a lot of fixes, everything finally works.
